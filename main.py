@@ -1,9 +1,3 @@
-# Yet Another Image Processor
-# Mahim Chaudhary:301463607 & Ariel Tyson:301458219
-# December 6th, 2021.
-# Create an image processing software with functionalities in a nice stand-alone interface.
-# Cmpt120:D300
-
 # Imported modules
 import cmpt120imageProjHelper as helper
 import cmpt120imageManip as manip
