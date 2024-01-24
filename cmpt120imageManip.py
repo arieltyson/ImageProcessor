@@ -1,9 +1,3 @@
-# Yet Another Image Processor
-# Mahim Chaudhary:301463607 & Ariel Tyson:301458219
-# December 6th, 2021.
-# Define functions to use in manipulation options
-# Cmpt120:D300
-
 
 import cmpt120imageProjHelper as helper
 import numpy
